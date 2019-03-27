@@ -8,3 +8,6 @@ Because I'm not actually deploying this model on Sagemaker (to save $$$$), I've 
 * 3. Feature Engineering
 * 4. Model 
 * 5. Deploy / package (not done)
+
+
+The code here is not perfect, shows a 'rough draft' version of working through a problem. I didn't make it perfect because I didn't want to spend more money.. I found a first run through gave a model with 90% accuracy, which was beats the win condition of the model being able to tell benign traffic apart from attacking traffic. Definitely want to explore this more in the future, but this is good enough for now.
