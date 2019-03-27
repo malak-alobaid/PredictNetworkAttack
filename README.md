@@ -1,8 +1,8 @@
-# PredictNetworkAttack
+# PredictNetworkAttack #
 
 This predictive model uses the Canadian Instutite of Cybersecurity dataset, which is organized by day. There are ten days, and for each day a seperate attack scenario was carried out. Each day has normal traffic, and some attacking traffic. All days are merged into one dataframe, then the dataframe is cleaned. Features are engineered, and a model is fitted with Sagemaker.
 
-##### Objective #####: 
+##### Objective ##### 
 determine if a model can tell the difference between benign and malicious traffic (Can we get error less than 50%?). A secondary objective is to learn sagemaker basics and how to train and clean a larger dataset. 
 
 ##### Who are the key stakeholders? ##### 
